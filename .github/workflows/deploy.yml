@@ -82,7 +82,7 @@ jobs:
           python-version: "3.13"
           cache: "pip" # caching pip dependencies
       - name: Update _config.yml ⚙️
-        uses: fjogeleit/yaml-update-action@main
+        uses: fjogeleit/yaml-update-action@7884561367303283313552997779876516643825
         with:
           commitChange: false
           valueFile: "_config.yml"
