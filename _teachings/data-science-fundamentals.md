@@ -1,13 +1,13 @@
 ---
 layout: course
-title: Data Science Fundamentals
+title: Design and Analysis of Algorithms
 description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
-year: 2024
+instructor: Prof. Ren
+year: 2025
 term: Spring
 location: Science Building, Room 202
 time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
+course_id: design-analysis-algorithms
 schedule:
   - week: 1
     date: Feb 5

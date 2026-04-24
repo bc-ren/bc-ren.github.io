@@ -57,11 +57,16 @@
 
   .navbar-brand {
     color: var(--global-text-color);
+    font-size: 1.5rem;
+    font-weight: 900;
+    font-family: "Proxima Nova", sans-serif;
+    letter-spacing: 0.6px;
   }
 
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
-
+    font-size: 1.4rem;
+    font-weight: bold;
     &:hover {
       color: var(--global-hover-color);
     }
