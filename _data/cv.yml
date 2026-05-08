@@ -90,6 +90,12 @@ cv:
         end_date: present
         area:  Review papers for top-tier journals in the field of computer vision and machine learning, such as TNNLS, TIFS, TIP, TSUSC, INFUS, etc.
 
+      - studyType: "Conference Publication/Publicity Chair"
+        location: Global
+        start_date: 2022
+        end_date: 2023
+        area:  IEEE International Conference on High Performance Computing and Communications (HPCC-2020/2021), IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom-2022).
+
       - studyType: "Editorial Service"
         institution: "Guest Editor for Special Issue on 'Multi-modal Representation Learning' in the journal 'Computers'"
         location: Global
