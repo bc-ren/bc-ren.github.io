@@ -2,7 +2,7 @@ cv:
   name: Bocheng Ren
   label: Academic Researcher
   email: bc.Revincent@gmail.com
-  location: Haikou, China
+  location: Thuwal, Saudi Arabia
   image: ""
   summary: 一名在博士期间被学术圈“过拟合”的计算机博士，如今在高校讲台用两年时间尝试“正则化”自己的职业生涯——试图用教学案例的“数据增强”来对抗科研方向的“欠拟合”，却发现自己的“泛化能力”早已被当年的“梯度消失”问题彻底摧毁，只能在“局部最优解”里反复“迭代”，祈祷下一轮“反向传播”能带来一丝“损失函数”的下降。见过深渊的人，更懂得如何教人避开深渊。
 
@@ -15,11 +15,11 @@ cv:
       username: example
 
   address:
-    street: No.58 Renmin Road
-    city: Haikou
-    region: Hainan
+    street:
+    city: Thuwal
+    region: Jeddah
     postalCode:
-    countryCode: CHN
+    countryCode: SA
 
   sections:
     Education:
@@ -56,10 +56,10 @@ cv:
         end_date: 2018.6
 
     Experience:
-      - company: Biological and Environmental Science and Engineering, KAUST
-        position: Postdoctoral Researcher
+      - company: Biomedical Sciences Division, KAUST
+        position: Postdoctoral Fellow
         location: Thuwal, Saudi Arabia
-        start_date: 2026.6
+        start_date: 2026.7
         end_date: present
         summary:  Research focus on multi-modal medical data analysis and process with MLM.
 #        highlights:

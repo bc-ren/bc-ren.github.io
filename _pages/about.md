@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Associate Professor, School of Computer Science and Technology, Hainan University</b>
+subtitle: <b>Postdoctoral Fellow, Biomedical Sciences Division, King Abdullah University of Science and Technology</b>
 
 profile:
   align: left
